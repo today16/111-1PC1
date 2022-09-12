@@ -17,7 +17,7 @@
 檔名需為answer.md.pdf
 3. 將answer.md.pdf檔於[CleverPDF](https://www.cleverpdf.com/zh-tw/encrypt-pdf)進行**防拷貝**，
 並將防拷貝後的answer.md.pdf放置至專案下並拖入VS community IDE內的「**方案總管**」
-4. 將answer.md使用winrar加密打包，密碼為學期請大家填寫的密碼，
+4. 將answer.md使用winrar加密打包，請自己記住密碼，
 並於VS community IDE內的「**方案總管**」刪除answer.md檔案
 5. 將專案執行git add、commit、push至github後，並於
 [google sheet(點我)](#)中找尋相對應之試算表，
